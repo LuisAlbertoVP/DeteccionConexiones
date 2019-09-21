@@ -1,0 +1,19 @@
+.bg-blue, .bg-blue-h:hover{
+    -fx-background-color: #00758f;
+}
+
+.bg-white, .bg-white-h:hover{
+    -fx-background-color: white;
+}
+
+.color-blue, .color-blue-h:hover{
+    -fx-text-fill: #00758f;
+}
+
+.color-white, .color-white-h:hover{
+    -fx-text-fill: white;
+}
+
+.border-white{
+    -fx-border-color: white;
+}
